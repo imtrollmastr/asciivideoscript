@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 # Load the video
-video_path = "youtube__RuuRU0bGLc_1440x1080_h264.mp4"  # Ensure correct path and extension
+video_path = "ENTER_VIDEO_NAME_HERE.mp4"  # Ensure correct path and extension
 cap = cv2.VideoCapture(video_path)
 
 # ASCII characters used for mapping (from dark to light)
